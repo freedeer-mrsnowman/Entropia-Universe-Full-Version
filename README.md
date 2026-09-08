@@ -241,3 +241,6 @@ This repository serves as the official landing page for Entropia Universe. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Entropia Universe today!**
+
+---
+**Last updated:** 2026-09-08 09:16:10 UTC
